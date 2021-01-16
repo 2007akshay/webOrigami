@@ -1,0 +1,19 @@
+body{
+    background-image : url("paper.png");
+    background-repeat: no-repeat;
+
+}
+h2{
+    font-size : 30px;
+    
+    margin-left: 50px;
+    
+}
+.space{
+    line-height: 35;
+}
+.img img{
+    
+    top: 20% 0%;
+    left: 40%;
+}
